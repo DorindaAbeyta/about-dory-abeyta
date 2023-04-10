@@ -1,0 +1,32 @@
+body {
+    background-color: cornflowerblue;
+    border: 10px dotted #d5c0f5;
+    border-radius: 30px 30px 30px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, sans-serif;
+    color: #d5c0f5;
+
+}
+
+img {
+    height: auto;
+    max-width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia, serif;
+    color: #d5c0f5;
+    font-size: 20px;
+    text-align: center;
+
+}
