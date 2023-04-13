@@ -1,5 +1,5 @@
 body {
-    background-color: cornflowerblue;
+    background-color: lightsalmon;
     border: 10px dotted #d5c0f5;
     border-radius: 30px 30px 30px;
 
@@ -8,7 +8,7 @@ body {
 h1 {
     text-align: center;
     font-family: Georgia, sans-serif;
-    color: #d5c0f5;
+    color: brown;
 
 }
 
@@ -18,6 +18,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: #d5c0f5 10px solid;
+
 }
 
 p {
@@ -25,7 +27,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     font-family: Georgia, serif;
-    color: #d5c0f5;
+    color: brown;
     font-size: 20px;
     text-align: center;
 
